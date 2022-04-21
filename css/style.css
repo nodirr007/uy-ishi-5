@@ -1,0 +1,19 @@
+.div1 table, tr, td, th{
+    width: 800px;
+    border: 2px solid black;
+
+}
+.div2 table,tr, td, th{
+    width: 500px;
+    border: 2px solid black;
+}
+.div5 table, tr, td, th{
+    width: 600px;
+    border: 2px solid black;
+}
+.div6 table, tr, td, th{
+    width: 500px;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
